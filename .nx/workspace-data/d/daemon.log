@@ -1,0 +1,114 @@
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.027Z - Started listening on: /var/folders/9r/0tv99gg501s_v0x7yg3psh6w0000gp/T/0e041433d61141601354/d.sock
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.030Z - [WATCHER]: Subscribed to changes within: /Users/sidz/personal-app/hasura-keycloak-nx (native)
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.037Z - Established a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.038Z - Closed a connection. Number of open connections: 0
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.049Z - Established a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.050Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.050Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.051Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.055Z - Time taken for 'loadSpecifiedNxPlugins' 1.6152079999999955ms
+Time for 'plugin worker 34865 code loading' 2.4177079999999993
+Time for 'plugin worker 34866 code loading' 2.9361669999999993
+Time for 'plugin worker 34867 code loading' 3.009416
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.089Z - [WATCHER]: Processing file changes in outputs
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.161Z - Time taken for 'Load Nx Plugin: /Users/sidz/personal-app/hasura-keycloak-nx/node_modules/.pnpm/nx@22.0.2_@swc-node+register@1.6.7_@swc+core@1.3.85_typescript@5.2.2__@swc+core@1.3.85/node_modules/nx/src/plugins/project-json/build-nodes/project-json' 108.532083ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.186Z - Time taken for 'Load Nx Plugin: /Users/sidz/personal-app/hasura-keycloak-nx/node_modules/.pnpm/nx@22.0.2_@swc-node+register@1.6.7_@swc+core@1.3.85_typescript@5.2.2__@swc+core@1.3.85/node_modules/nx/src/plugins/js' 134.666708ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.194Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.194Z - [REQUEST]: 
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.194Z - [REQUEST]: 
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.195Z - No files changed, but no in-memory cached project graph found. Recomputing it...
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.198Z - Time taken for 'loadDefaultNxPlugins' 142.016125ms
+Time for 'nx/core/package-json:createNodes' 0.9944579999999803
+Time for 'nx/core/project-json:createNodes' 0.5506249999999966
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 172.30699999999996
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.396Z - Time taken for 'build-project-configs' 189.18962500000004ms
+Time for 'build typescript dependencies' 54.601
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.475Z - [SYNC]: collect registered sync generators
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.488Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.489Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.491Z - Time taken for 'total for creating and serializing project graph' 437.673583ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.581Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.581Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 438. Response time: 92.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.585Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.586Z - Done responding to the client handleContextFileData
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.586Z - Handled json message GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 1.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.587Z - Closed a connection. Number of open connections: 0
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.637Z - Established a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.638Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.638Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.638Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.638Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.639Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.640Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.645Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.646Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.646Z - Time taken for 'total for creating and serializing project graph' 6.4933750000000146ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.662Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.662Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 7. Response time: 16.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.665Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.665Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.669Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.669Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.670Z - Time taken for 'total for creating and serializing project graph' 3.9076669999999467ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.688Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.688Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 4. Response time: 19.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.691Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.724Z - Established a connection. Number of open connections: 3
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.725Z - Closed a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.726Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.726Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.737Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.737Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.738Z - Time taken for 'total for creating and serializing project graph' 11.461625000000026ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.754Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.755Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 11. Response time: 18.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.759Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.759Z - Done responding to the client handleContextFileData
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.759Z - Handled json message GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.759Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.773Z - Closed a connection. Number of open connections: 0
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.774Z - Established a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.774Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.774Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.775Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.775Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.776Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.776Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.782Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.782Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.783Z - Time taken for 'total for creating and serializing project graph' 6.683374999999955ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.790Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.790Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 7. Response time: 8.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.793Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.794Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.798Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.798Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.798Z - Time taken for 'total for creating and serializing project graph' 4.207957999999962ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.805Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.805Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 5. Response time: 7.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:36.807Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.110Z - Established a connection. Number of open connections: 3
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.111Z - Closed a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.111Z - Established a connection. Number of open connections: 3
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.112Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.112Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.116Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.116Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.116Z - Time taken for 'total for creating and serializing project graph' 3.591833999999835ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.122Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.122Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 4. Response time: 6.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.492Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.492Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.496Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.496Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.497Z - Time taken for 'total for creating and serializing project graph' 4.275875000000042ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.507Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.507Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 4. Response time: 11.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.510Z - Established a connection. Number of open connections: 4
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.511Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.511Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.515Z - Wrote project graph cache to /Users/sidz/personal-app/hasura-keycloak-nx/.nx/workspace-data/project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.515Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.515Z - Time taken for 'total for creating and serializing project graph' 4.1056670000000395ms
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.528Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-04T07:51:37.528Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 4. Response time: 13.
