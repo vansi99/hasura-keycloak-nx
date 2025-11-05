@@ -6,107 +6,63 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".editorconfig",
-        "hash": "5443105041930014821"
-      },
-      {
-        "file": ".env.development",
-        "hash": "5754397707563217047"
-      },
-      {
-        "file": ".eslintignore",
-        "hash": "7663861978715868291"
-      },
-      {
-        "file": ".eslintrc.json",
-        "hash": "1482810769789930301"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "16877376182141465221"
-      },
-      {
-        "file": ".npmrc",
-        "hash": "1880664178033616490"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "16448050467312557263"
-      },
-      {
-        "file": ".prettierrc",
-        "hash": "16267754514737964994"
-      },
-      {
-        "file": ".vscode/extensions.json",
-        "hash": "235626400633494639"
-      },
-      {
-        "file": ".vscode/launch.json",
-        "hash": "3087266920693510662"
-      },
-      {
-        "file": "BLOG.md",
-        "hash": "12607188778493537196"
-      },
-      {
-        "file": "README.md",
-        "hash": "12583268162487171566"
-      },
-      {
-        "file": "Taskfile.yml",
-        "hash": "10665668920303687373"
-      },
-      {
-        "file": "apps/hasura/config.yaml",
-        "hash": "1331919769314164318"
-      },
-      {
         "file": "apps/hasura/metadata/actions.graphql",
         "hash": "3244421341483603138"
       },
       {
-        "file": "apps/hasura/metadata/actions.yaml",
-        "hash": "1643037900690015745"
-      },
-      {
-        "file": "apps/hasura/metadata/allow_list.yaml",
-        "hash": "5079120912223948982"
-      },
-      {
-        "file": "apps/hasura/metadata/api_limits.yaml",
-        "hash": "15753941481085060538"
-      },
-      {
-        "file": "apps/hasura/metadata/backend_configs.yaml",
-        "hash": "15753941481085060538"
-      },
-      {
-        "file": "apps/hasura/metadata/cron_triggers.yaml",
-        "hash": "5079120912223948982"
-      },
-      {
-        "file": "apps/hasura/metadata/databases/databases.yaml",
-        "hash": "12081409193328447308"
-      },
-      {
-        "file": "apps/hasura/metadata/databases/default/tables/public_posts.yaml",
-        "hash": "16187036456295080104"
-      },
-      {
-        "file": "apps/hasura/metadata/databases/default/tables/public_users.yaml",
-        "hash": "7571989769395663317"
-      },
-      {
-        "file": "apps/hasura/metadata/databases/default/tables/tables.yaml",
-        "hash": "7431608750133214878"
+        "file": "realm-export.json",
+        "hash": "10643204947719429285"
       },
       {
         "file": "apps/hasura/metadata/graphql_schema_introspection.yaml",
         "hash": "16653946783370864536"
       },
       {
-        "file": "apps/hasura/metadata/inherited_roles.yaml",
+        "file": "screenshots/01.png",
+        "hash": "9783473617139959643"
+      },
+      {
+        "file": "schema.gql",
+        "hash": "13113662145011479806"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "235626400633494639"
+      },
+      {
+        "file": "apps/hasura/metadata/opentelemetry.yaml",
+        "hash": "15753941481085060538"
+      },
+      {
+        "file": "screenshots/07.png",
+        "hash": "1375326744481551395"
+      },
+      {
+        "file": "nx.json",
+        "hash": "10795425961892248039"
+      },
+      {
+        "file": "screenshots/06.png",
+        "hash": "6073221031448920482"
+      },
+      {
+        "file": "screenshots/05.png",
+        "hash": "10318377152741816482"
+      },
+      {
+        "file": "apps/hasura/metadata/remote_schemas.yaml",
+        "hash": "5079120912223948982"
+      },
+      {
+        "file": "init/db/00-setup.sql",
+        "hash": "10396998765125123133"
+      },
+      {
+        "file": "apps/hasura/metadata/allow_list.yaml",
+        "hash": "5079120912223948982"
+      },
+      {
+        "file": "apps/hasura/metadata/query_collections.yaml",
         "hash": "5079120912223948982"
       },
       {
@@ -114,96 +70,36 @@
         "hash": "15753941481085060538"
       },
       {
-        "file": "apps/hasura/metadata/network.yaml",
+        "file": "apps/hasura/metadata/databases/default/tables/public_users.yaml",
+        "hash": "7571989769395663317"
+      },
+      {
+        "file": "apps/hasura/metadata/api_limits.yaml",
         "hash": "15753941481085060538"
       },
       {
-        "file": "apps/hasura/metadata/opentelemetry.yaml",
-        "hash": "15753941481085060538"
+        "file": "apps/hasura/metadata/databases/databases.yaml",
+        "hash": "12081409193328447308"
       },
       {
-        "file": "apps/hasura/metadata/query_collections.yaml",
-        "hash": "5079120912223948982"
+        "file": "apps/hasura/config.yaml",
+        "hash": "1331919769314164318"
       },
       {
-        "file": "apps/hasura/metadata/remote_schemas.yaml",
-        "hash": "5079120912223948982"
-      },
-      {
-        "file": "apps/hasura/metadata/rest_endpoints.yaml",
-        "hash": "5079120912223948982"
-      },
-      {
-        "file": "apps/hasura/metadata/version.yaml",
-        "hash": "17758056563571449794"
-      },
-      {
-        "file": "docker-compose.yml",
-        "hash": "13573208901317973758"
-      },
-      {
-        "file": "init/db/00-setup.sql",
-        "hash": "10396998765125123133"
-      },
-      {
-        "file": "jest.config.ts",
-        "hash": "8278665120952369726"
-      },
-      {
-        "file": "jest.preset.js",
-        "hash": "4185368808439573122"
-      },
-      {
-        "file": "migrations.json",
-        "hash": "9378296434200966896"
-      },
-      {
-        "file": "nx.json",
-        "hash": "10795425961892248039"
-      },
-      {
-        "file": "package.json",
-        "hash": "16037718469025409074"
-      },
-      {
-        "file": "pnpm-lock.yaml",
-        "hash": "14783110740733430913"
-      },
-      {
-        "file": "realm-export.json",
-        "hash": "8666825601506477342"
-      },
-      {
-        "file": "schema.gql",
-        "hash": "13113662145011479806"
-      },
-      {
-        "file": "screenshots/01.png",
-        "hash": "9783473617139959643"
-      },
-      {
-        "file": "screenshots/02.png",
-        "hash": "14393152086963187501"
+        "file": "BLOG.md",
+        "hash": "12607188778493537196"
       },
       {
         "file": "screenshots/03.png",
         "hash": "13401334262615660888"
       },
       {
-        "file": "screenshots/04.png",
-        "hash": "1906033462295168450"
+        "file": "apps/hasura/metadata/backend_configs.yaml",
+        "hash": "15753941481085060538"
       },
       {
-        "file": "screenshots/05.png",
-        "hash": "10318377152741816482"
-      },
-      {
-        "file": "screenshots/06.png",
-        "hash": "6073221031448920482"
-      },
-      {
-        "file": "screenshots/07.png",
-        "hash": "1375326744481551395"
+        "file": "package.json",
+        "hash": "17563002598821972637"
       },
       {
         "file": "screenshots/08.png",
@@ -214,79 +110,139 @@
         "hash": "863794639353959930"
       },
       {
-        "file": "screenshots/10.png",
-        "hash": "17873037722956685599"
+        "file": "docker-compose.yml",
+        "hash": "17689066905157338548"
       },
       {
-        "file": "screenshots/11.png",
-        "hash": "66543656127727079"
+        "file": "jest.preset.js",
+        "hash": "4185368808439573122"
       },
       {
-        "file": "screenshots/12.png",
-        "hash": "17022007768993353657"
+        "file": ".vscode/launch.json",
+        "hash": "3087266920693510662"
       },
       {
-        "file": "screenshots/13.png",
-        "hash": "307583957426271826"
+        "file": "apps/hasura/metadata/version.yaml",
+        "hash": "17758056563571449794"
       },
       {
-        "file": "screenshots/14.png",
-        "hash": "1009711529549397243"
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
       },
       {
         "file": "screenshots/15.png",
         "hash": "10726954160378056352"
       },
       {
-        "file": "tsconfig.base.json",
-        "hash": "16936441711144470533"
+        "file": "apps/hasura/metadata/actions.yaml",
+        "hash": "1643037900690015745"
+      },
+      {
+        "file": "apps/hasura/metadata/cron_triggers.yaml",
+        "hash": "5079120912223948982"
+      },
+      {
+        "file": ".env.development",
+        "hash": "5754397707563217047"
+      },
+      {
+        "file": "screenshots/02.png",
+        "hash": "14393152086963187501"
+      },
+      {
+        "file": "apps/hasura/metadata/network.yaml",
+        "hash": "15753941481085060538"
+      },
+      {
+        "file": "screenshots/04.png",
+        "hash": "1906033462295168450"
+      },
+      {
+        "file": ".eslintignore",
+        "hash": "7663861978715868291"
+      },
+      {
+        "file": "screenshots/11.png",
+        "hash": "66543656127727079"
+      },
+      {
+        "file": "screenshots/14.png",
+        "hash": "1009711529549397243"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "8278665120952369726"
+      },
+      {
+        "file": "migrations.json",
+        "hash": "9378296434200966896"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "5227864383461120713"
+      },
+      {
+        "file": "apps/hasura/metadata/rest_endpoints.yaml",
+        "hash": "5079120912223948982"
+      },
+      {
+        "file": ".npmrc",
+        "hash": "1880664178033616490"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "1482810769789930301"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "Taskfile.yml",
+        "hash": "10665668920303687373"
+      },
+      {
+        "file": "apps/hasura/metadata/databases/default/tables/public_posts.yaml",
+        "hash": "16187036456295080104"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "16448050467312557263"
+      },
+      {
+        "file": "screenshots/13.png",
+        "hash": "307583957426271826"
+      },
+      {
+        "file": "apps/hasura/metadata/databases/default/tables/tables.yaml",
+        "hash": "7431608750133214878"
+      },
+      {
+        "file": "README.md",
+        "hash": "12583268162487171566"
+      },
+      {
+        "file": "screenshots/10.png",
+        "hash": "17873037722956685599"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16877376182141465221"
+      },
+      {
+        "file": "apps/hasura/metadata/inherited_roles.yaml",
+        "hash": "5079120912223948982"
+      },
+      {
+        "file": "screenshots/12.png",
+        "hash": "17022007768993353657"
       }
     ],
     "projectFileMap": {
-      "main-server-e2e": [
-        {
-          "file": "apps/main-server-e2e/.eslintrc.json",
-          "hash": "13800677001662881425"
-        },
-        {
-          "file": "apps/main-server-e2e/jest.config.ts",
-          "hash": "8439616385783622861"
-        },
-        {
-          "file": "apps/main-server-e2e/project.json",
-          "hash": "15315549109885033359"
-        },
-        {
-          "file": "apps/main-server-e2e/src/main-server/main-server.spec.ts",
-          "hash": "110394728024017389",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "apps/main-server-e2e/src/support/global-setup.ts",
-          "hash": "2568409276037275290"
-        },
-        {
-          "file": "apps/main-server-e2e/src/support/global-teardown.ts",
-          "hash": "5275447082211835490"
-        },
-        {
-          "file": "apps/main-server-e2e/src/support/test-setup.ts",
-          "hash": "10984585515912236441",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "apps/main-server-e2e/tsconfig.json",
-          "hash": "15443990093475294480"
-        },
-        {
-          "file": "apps/main-server-e2e/tsconfig.spec.json",
-          "hash": "14954872453723519891"
-        }
-      ],
       "main-server": [
         {
           "file": "apps/main-server/.env.development",
@@ -329,7 +285,7 @@
         },
         {
           "file": "apps/main-server/project.json",
-          "hash": "13147875786250741738"
+          "hash": "10666102836538417300"
         },
         {
           "file": "apps/main-server/seeder/index.ts",
@@ -538,8 +494,52 @@
             "npm:@nx/webpack"
           ]
         }
+      ],
+      "main-server-e2e": [
+        {
+          "file": "apps/main-server-e2e/.eslintrc.json",
+          "hash": "13800677001662881425"
+        },
+        {
+          "file": "apps/main-server-e2e/jest.config.ts",
+          "hash": "8439616385783622861"
+        },
+        {
+          "file": "apps/main-server-e2e/project.json",
+          "hash": "15315549109885033359"
+        },
+        {
+          "file": "apps/main-server-e2e/src/main-server/main-server.spec.ts",
+          "hash": "110394728024017389",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/main-server-e2e/src/support/global-setup.ts",
+          "hash": "2568409276037275290"
+        },
+        {
+          "file": "apps/main-server-e2e/src/support/global-teardown.ts",
+          "hash": "5275447082211835490"
+        },
+        {
+          "file": "apps/main-server-e2e/src/support/test-setup.ts",
+          "hash": "10984585515912236441",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/main-server-e2e/tsconfig.json",
+          "hash": "15443990093475294480"
+        },
+        {
+          "file": "apps/main-server-e2e/tsconfig.spec.json",
+          "hash": "14954872453723519891"
+        }
       ]
     }
   },
-  "externalNodesHash": "27914366007408716"
+  "externalNodesHash": "3865948974653789329"
 }
